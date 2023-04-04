@@ -78,30 +78,12 @@ Tools:
 
 ## 📈 My Stats: 
 
-<!-- 
-![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=A1C4FD&title_color=fff&text_color=fff)
+![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=20232a&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renishaasavani&layout=compact&bg_color=20232a&title_color=ffffff&text_color=ffffff)
 
 
-![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=A1C4FD&title_color=fff&text_color=333333)
-
-![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=2f80ed&title_color=fff&text_color=333333&icon_color=ffffff)
-
-![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=DEG, #4facfe, #00f2fe&title_color=fff&text_color=333333&icon_color=ffffff) -->
-
-
-![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=1d1f2f&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renishaasavani&layout=compact&bg_color=1d1f2f&title_color=ffffff&text_color=ffffff)
-
-
-<!-- 
-![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=2b2d42&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renishaasavani&layout=compact&bg_color=2b2d42&title_color=ffffff&text_color=ffffff)
-
-
-![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renishaasavani&layout=compact)
 <br>
-<br> -->
+<br>
 
 
 ## 🚀 My Projects Repositories:
