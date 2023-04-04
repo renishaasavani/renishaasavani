@@ -20,7 +20,7 @@
 ## 👨🏻‍💻 My Introduction
 
 👉
-Certainly! Hi there, my name is Renisha Savani and I am currently pursuing a B.Tech IT from PP Savani University. As a passionate and creative person, I am always eager to learn new things and explore new technologies. I am currently working as a Flutter developer at Par Solution, where I am gaining valuable experience and sharpening my skills in this exciting field. In my free time, I love to travel and discover new experiences, which helps to fuel my curiosity and sense of adventure. Overall, I am a driven and enthusiastic individual who is dedicated to achieving success both personally and professionally.
+ Hi there, my name is Renisha Savani and I am currently pursuing a B.Tech IT from PP Savani University. As a passionate and creative person, I am always eager to learn new things and explore new technologies. I am currently working as a Flutter developer at Par Solution, where I am gaining valuable experience and sharpening my skills in this exciting field. In my free time, I love to travel and discover new experiences, which helps to fuel my curiosity and sense of adventure. Overall, I am a driven and enthusiastic individual who is dedicated to achieving success both personally and professionally.
 
 <br>
 
@@ -78,10 +78,31 @@ Tools:
 
 ## 📈 My Stats: 
 
+<!-- 
+![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=A1C4FD&title_color=fff&text_color=fff)
+
+
+![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=A1C4FD&title_color=fff&text_color=333333)
+
+![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=2f80ed&title_color=fff&text_color=333333&icon_color=ffffff)
+
+![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=DEG, #4facfe, #00f2fe&title_color=fff&text_color=333333&icon_color=ffffff) -->
+
+
+![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=1d1f2f&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renishaasavani&layout=compact&bg_color=1d1f2f&title_color=ffffff&text_color=ffffff)
+
+
+<!-- 
+![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs&bg_color=2b2d42&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renishaasavani&layout=compact&bg_color=2b2d42&title_color=ffffff&text_color=ffffff)
+
+
 ![Renisha_Savani's github stats](https://github-readme-stats.vercel.app/api?username=renishaasavani&count_private=true&show_icons=true&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renishaasavani&layout=compact)
 <br>
-<br>
+<br> -->
+
 
 ## 🚀 My Projects Repositories:
 
@@ -92,6 +113,9 @@ Tools:
   <a href="https://github.com/renishaasavani/RFID-Door-Lock-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=renishaasavani&repo=RFID-Door-Lock-System&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=91c11e" />
   </a>
+  
+<br>
+<br>
   
 ## 🚀 My Educational Repositories:
 
